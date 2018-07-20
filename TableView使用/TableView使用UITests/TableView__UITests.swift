@@ -1,14 +1,14 @@
 //
-//  testUITests.swift
-//  testUITests
+//  TableView__UITests.swift
+//  TableView使用UITests
 //
-//  Created by zlhj on 2018/7/20.
+//  Created by zlhj on 2018/7/19.
 //  Copyright © 2018年 zlhj. All rights reserved.
 //
 
 import XCTest
 
-class testUITests: XCTestCase {
+class TableView__UITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
