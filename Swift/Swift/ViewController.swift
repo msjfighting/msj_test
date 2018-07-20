@@ -8,7 +8,7 @@
 
 import UIKit
 
-
+// 分支合并练习
 class ViewController: UIViewController {
     struct Reactangle {
         var width = 0.0;
