@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E054C2242100790D00EF79D6 /* TestTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = E054C2232100790D00EF79D6 /* TestTool.swift */; };
+		E054C29A2101DF5100EF79D6 /* OneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E054C2992101DF5100EF79D6 /* OneView.swift */; };
 		E05946EC20FED19A006941C5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E05946EB20FED19A006941C5 /* AppDelegate.swift */; };
 		E05946EE20FED19A006941C5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E05946ED20FED19A006941C5 /* ViewController.swift */; };
 		E05946F120FED19A006941C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E05946EF20FED19A006941C5 /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		E054C2232100790D00EF79D6 /* TestTool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTool.swift; sourceTree = "<group>"; };
+		E054C2992101DF5100EF79D6 /* OneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneView.swift; sourceTree = "<group>"; };
 		E05946E820FED19A006941C5 /* SwiftDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E05946EB20FED19A006941C5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E05946ED20FED19A006941C5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				E05946EB20FED19A006941C5 /* AppDelegate.swift */,
+				E054C2992101DF5100EF79D6 /* OneView.swift */,
 				E05946ED20FED19A006941C5 /* ViewController.swift */,
 				E054C2232100790D00EF79D6 /* TestTool.swift */,
 				E059471921003917006941C5 /* SeconViewController.swift */,
@@ -266,6 +269,7 @@
 				E05946EE20FED19A006941C5 /* ViewController.swift in Sources */,
 				E05946EC20FED19A006941C5 /* AppDelegate.swift in Sources */,
 				E054C2242100790D00EF79D6 /* TestTool.swift in Sources */,
+				E054C29A2101DF5100EF79D6 /* OneView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
