@@ -9,7 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController,UITableViewDataSource ,UITableViewDelegate{
-    // MARK: 懒加载的属性
+    // MARK: 懒加载的属性   相当于#pragma mark
+
     lazy var tableView : UITableView = UITableView()
     override func viewDidLoad() {
         super.viewDidLoad()
